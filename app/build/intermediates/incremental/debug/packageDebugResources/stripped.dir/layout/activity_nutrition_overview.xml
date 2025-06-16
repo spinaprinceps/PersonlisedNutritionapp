@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Daily Nutrition Guide"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BMI: 19.9"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Daily Calories: 1,996 kcal"
+                android:textSize="18sp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Macronutrients"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="• Carbohydrates: 225-324g\n• Total Fiber: 28g\n• Protein: 37g\n• Fat: 44-78g\n• Saturated Fat: As low as possible\n• Trans Fat: As low as possible\n• α-Linolenic Acid: 1.1g\n• Linoleic Acid: 12g\n• Dietary Cholesterol: As low as possible\n• Total Water: 2.7L (11 cups)"
+                android:textSize="16sp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vitamins"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="• Vitamin A: 700mcg\n• Vitamin C: 75mg\n• Vitamin D: 15mcg\n• Vitamin E: 15mg\n• Vitamin K: 90mcg\n• Vitamin B6: 1.3mg\n• Vitamin B12: 2.4mcg\n• Thiamin: 1.1mg\n• Riboflavin: 1.1mg\n• Folate: 400mcg\n• Niacin: 14mg\n• Choline: 0.425g\n• Pantothenic Acid: 5mg\n• Biotin: 30mcg"
+                android:textSize="16sp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Minerals"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="• Calcium: 1,000mg\n• Chloride: 2.3g\n• Chromium: 25mcg\n• Copper: 900mcg\n• Fluoride: 3mg\n• Iodine: 150mcg\n• Iron: 18mg\n• Magnesium: 310mg\n• Manganese: 1.8mg\n• Molybdenum: 45mcg\n• Phosphorus: 0.7g\n• Potassium: 2,600mg\n• Selenium: 55mcg\n• Sodium: 1,500mg\n• Zinc: 8mg"
+                android:textSize="16sp"
+                android:layout_marginBottom="16dp" />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout> 

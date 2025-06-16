@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_profile.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_recipes.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_recipes.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_diet.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_diet.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_profile_setup.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_profile_setup.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_food_analysis.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_food_analysis.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_item_meal.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\item_meal.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_recipe.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_recipe.xml"
+    },
+    {
+        "merged": "com.smartnutrition.app-merged_res-4:/layout_activity_nutrition_overview.xml.flat",
+        "source": "com.smartnutrition.app-main-6:/layout/activity_nutrition_overview.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_item_recipe.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_diet_recommendations.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_diet_recommendations.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_nutrition_overview.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_nutrition_overview.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_food_analysis.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_food_analysis.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_settings.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_nutrition.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_nutrition.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_placeholder_food.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\placeholder_food.xml"
+    },
+    {
+        "merged": "com.smartnutrition.app-merged_res-4:/layout_activity_profile_setup.xml.flat",
+        "source": "com.smartnutrition.app-main-6:/layout/activity_profile_setup.xml"
+    },
+    {
+        "merged": "com.smartnutrition.app-merged_res-4:/layout_activity_dashboard.xml.flat",
+        "source": "com.smartnutrition.app-main-6:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_item_recent_meal.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\item_recent_meal.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\drawable_ic_home.xml.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

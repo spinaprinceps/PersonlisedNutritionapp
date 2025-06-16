@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.smartnutrition.app-mergeDebugResources-3:/layout/activity_profile_setup.xml",
+        "source": "com.smartnutrition.app-main-6:/layout/activity_profile_setup.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\item_recipe.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_food_analysis.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_food_analysis.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\item_recent_meal.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\item_recent_meal.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_recipes.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_recipes.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_profile_setup.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_profile_setup.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_settings.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_login.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_nutrition_overview.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_nutrition_overview.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_profile.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_dashboard.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\activity_diet_recommendations.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\activity_diet_recommendations.xml"
+    },
+    {
+        "merged": "com.smartnutrition.app-mergeDebugResources-3:/layout/activity_nutrition_overview.xml",
+        "source": "com.smartnutrition.app-main-6:/layout/activity_nutrition_overview.xml"
+    },
+    {
+        "merged": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-mergeDebugResources-3:\\layout\\item_meal.xml",
+        "source": "C:\\newgradlehome\\daemon\\8.2\\com.smartnutrition.app-main-6:\\layout\\item_meal.xml"
+    },
+    {
+        "merged": "com.smartnutrition.app-mergeDebugResources-3:/layout/activity_dashboard.xml",
+        "source": "com.smartnutrition.app-main-6:/layout/activity_dashboard.xml"
+    }
+]
